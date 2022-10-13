@@ -10,7 +10,7 @@
 
 -> For [MacOS](https://code.visualstudio.com/docs/setup/mac) 
 
--> Start Contributing
+> Start Contributing
 
 Link for the [Account](https://github.com/Shisui-12)
 
