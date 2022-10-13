@@ -1,1 +1,3 @@
 # Shisui-12.github.io
+
+#Go to the Website for furhter info...
