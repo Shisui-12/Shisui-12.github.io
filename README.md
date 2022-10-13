@@ -1,8 +1,8 @@
 # Links For Reference
 
-Installing Git on your machine
+> Installing Git on your machine
 
--> https://docs.github.com/en/get-started/quickstart/set-up-git
+-> [Git Setup](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 Installing VS Code 
 
