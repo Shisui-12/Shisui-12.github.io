@@ -8,7 +8,11 @@
 
 -> For [Windows](https://code.visualstudio.com/docs/setup/windows) 
 
--> For [MacOS](https://code.visualstudio.com/docs/setup/mac) 
+-> For [MacOS](https://code.visualstudio.com/docs/setup/mac)
+
+> Games
+
+-> [Flappy Bird](https://flappybird6622.netlify.app/)
 
 > Start Contributing
 
